@@ -1,3 +1,5 @@
+package App;
+
 public class App {
     static void main() {
         System.out.println("Iniciando programa");
