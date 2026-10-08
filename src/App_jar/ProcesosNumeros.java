@@ -1,4 +1,4 @@
-package App;
+package App_jar;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package App;
+package App_jar;
 
 public class App {
     static void main() {
